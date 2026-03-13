@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=220&section=header&text=LEAFISLY&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Artist%20%2F%20Musician&descSize=20&descColor=666666&descAlign=50&descAlignY=68&animation=fadeIn&fontFamily=Helvetica" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a3d3d,50:0e7490,100:38bdf8&height=220&section=header&text=LEAFISLY&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Artist%20%2F%20Musician&descSize=22&descColor=ffffff&descAlign=50&descAlignY=68&animation=fadeIn&fontFamily=Helvetica&stroke=888888&strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -31,10 +31,10 @@
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Leafisly&style=flat-square&color=000000&label=views&labelColor=111111"/>
+<img src="https://komarev.com/ghpvc/?username=Leafisly&style=flat-square&color=0e7490&label=views&labelColor=0a3d3d"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:38bdf8,50:0e7490,100:0a3d3d&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
