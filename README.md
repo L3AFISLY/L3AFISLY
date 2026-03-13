@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-<img src="https://media.discordapp.net/attachments/1460250924537745534/1480472947608129587/unnamed_1.jpg?ex=69b51360&is=69b3c1e0&hm=37aa3f115e6c062c30546393be51791fa23039742115ad29acfaa1eb4e5b1915&=&format=webp&width=1436&height=856" width="320" style="border-radius: 12px;"/>
+<img src="https://media.discordapp.net/attachments/1461720760765649040/1482058905038094507/1773420768021.png?ex=69b5926a&is=69b440ea&hm=aaf364e6d40eec23c48a36acda2e1fc25b9b151b746381bdbd35e85f33d566ad&=&format=webp&quality=lossless&width=1437&height=856" width="480"/>
 
 <br/>
 <br/>
